@@ -28,6 +28,12 @@ cask "vorta"
 cask "chatgpt"
 cask "visual-studio-code"
 cask "vuescan"
+cask "caffeine"
+cask "dropbox"
+cask "nordvpn"
+cask "skype"
+cask "iterm2"
+cask "zoom"
 
 mas 'Slack', id: 803453959
 mas "WireGuard", id: 1451685025
