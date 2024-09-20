@@ -7,3 +7,5 @@ brew bundle install
 chsh -s /usr/local/bin/fish
 
 xargs -L 1 code --install-extension < vscode-extensions.txt
+
+cp other/config ~/.gitconfig
