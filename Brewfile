@@ -17,6 +17,7 @@ brew "docker-compose"
 brew "mas"
 brew "pre-commit"
 brew "tflint"
+brew "shellcheck"
 
 cask "1password-cli"
 cask "alfred"
