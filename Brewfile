@@ -14,11 +14,12 @@ brew "trivy"
 brew "awscli"
 brew "docker"
 brew "docker-compose"
+brew "mas"
+brew "pre-commit"
+brew "tflint"
+
 cask "1password-cli"
-
-brew 'mas'
-
-cask 'alfred'
+cask "alfred"
 cask "1password"
 cask "linear-linear"
 cask "gpg-suite"
@@ -35,7 +36,7 @@ cask "skype"
 cask "iterm2"
 cask "zoom"
 
-mas 'Slack', id: 803453959
+mas "Slack", id: 803453959
 mas "WireGuard", id: 1451685025
 mas "Xcode", id: 497799835
 mas "Telegram", id: 747648890
