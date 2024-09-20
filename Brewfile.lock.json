@@ -999,6 +999,12 @@
         "options": {
           "full_name": "zoom"
         }
+      },
+      "alacritty": {
+        "version": "0.13.2",
+        "options": {
+          "full_name": "alacritty"
+        }
       }
     },
     "mas": {

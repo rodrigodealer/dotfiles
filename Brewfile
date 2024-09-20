@@ -20,6 +20,7 @@ brew "tflint"
 brew "shellcheck"
 
 cask "1password-cli"
+cask "alacritty"
 cask "alfred"
 cask "1password"
 cask "linear-linear"
