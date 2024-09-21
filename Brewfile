@@ -39,6 +39,7 @@ cask "iterm2"
 cask "zoom"
 
 mas "Slack", id: 803453959
+mas "CCMenu", id: 603117688
 mas "WireGuard", id: 1451685025
 mas "Xcode", id: 497799835
 mas "Telegram", id: 747648890
