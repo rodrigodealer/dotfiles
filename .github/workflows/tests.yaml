@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Validate syntax
-        run: bash -n other/setup
+        run: bash -n setup
 
-      - name: Test other/setup
-        run: bash other/setup
+      - name: Test setup
+        run: bash setup
