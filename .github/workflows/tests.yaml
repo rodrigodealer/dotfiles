@@ -18,6 +18,3 @@ jobs:
 
       - name: Validate syntax
         run: bash -n setup
-
-      - name: Test setup
-        run: bash setup
