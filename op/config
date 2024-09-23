@@ -1,0 +1,15 @@
+{
+	"latest_signin": "my",
+	"device": "ds6coav5jjhpzedb2rl2bwcixa",
+	"accounts": [
+		{
+			"shorthand": "my",
+			"accountUUID": "JN4J5MTBTFHYDJ6QJTWTBOZBSM",
+			"url": "https://my.1password.com",
+			"email": "rodrigo.dealer@gmail.com",
+			"accountKey": "A3-44SEPH-CWGV5N-DK8KQ-5V73T-7NVE9-68VCB",
+			"userUUID": "W7X74LGKWJDWFKPIL23YJ3KERE",
+			"dsecret": "5nw-rNVD_fjIkTogVuY-Jw"
+		}
+	]
+}

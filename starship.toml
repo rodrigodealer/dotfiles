@@ -27,37 +27,22 @@ $git_commit\
 $git_state\
 $git_metrics\
 $git_status\
-$pijul_channel\
 $docker_context
 $helm\
 $java\
-$nim\
-$nodejs
-$opa\
-$pulumi\
 $python
-$red\
 $ruby\
 $rust\
 $terraform\
-$typst\
 $aws\
 $gcloud\
 $azure\
 $nats\
 $direnv\
-$env_var\
-$crystal\
 $custom\
 $sudo\
-$cmd_duration\
-$line_break\
-$jobs\
-$battery\
-$time\
 $status\
 $os\
-$container\
 $shell\
 $character"""
 
@@ -72,21 +57,24 @@ ignore_branches = ['master', 'main']
 commit_hash_length = 4
 tag_symbol = '🔖 '
 
+[helm]
+disabled = true
+
 [git_state]
 format = '[\($state( $progress_current of $progress_total)\)]($style) '
 cherry_pick = '[🍒 PICKING](bold red)'
-
 
 [golang]
 format = 'via [🏎💨 $version](bold cyan) '
 
 [aws]
+disabled = true
 format = 'on [$symbol  ($profile )(\($region\) )]($style)'
 style = 'bold blue'
 symbol = '🅰️'
 
 [azure]
-disabled = false
+disabled = true
 format = 'on [$symbol  ($subscription)]($style) '
 symbol = '🦠'
 style = 'blue bold'
