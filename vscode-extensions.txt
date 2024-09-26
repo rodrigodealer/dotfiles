@@ -1,6 +1,8 @@
 4ops.terraform
 aleksandra.go-group-imports
+circleci.circleci
 enkia.tokyo-night
+github.vscode-github-actions
 github.vscode-pull-request-github
 golang.go
 kohlbachjan.the-best-theme
