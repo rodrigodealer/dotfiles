@@ -5,6 +5,8 @@ end
 starship init fish | source
 direnv hook fish | source
 zoxide init fish | source
+pyenv init - | source
+status --is-interactive; and nodenv init - fish | source
 
 gpgconf --launch gpg-agent
 

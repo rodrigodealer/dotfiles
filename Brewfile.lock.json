@@ -564,40 +564,40 @@
         }
       },
       "awscli": {
-        "version": "2.17.59",
+        "version": "2.17.61",
         "bottle": {
           "rebuild": 0,
           "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_sequoia": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/awscli/blobs/sha256:af530a040b009afb9ccfce85436660cf56d69ef45cffec2a84e765636f37d19f",
-              "sha256": "af530a040b009afb9ccfce85436660cf56d69ef45cffec2a84e765636f37d19f"
+              "url": "https://ghcr.io/v2/homebrew/core/awscli/blobs/sha256:a5d951c3de950c34ec4bc30b65073de70bb40f2798139428bd0e1aee8af9f452",
+              "sha256": "a5d951c3de950c34ec4bc30b65073de70bb40f2798139428bd0e1aee8af9f452"
             },
             "arm64_sonoma": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/awscli/blobs/sha256:5acd9beebeb4694a76aa27b13c2e76bc096b4bb261c0f93818367199e511d478",
-              "sha256": "5acd9beebeb4694a76aa27b13c2e76bc096b4bb261c0f93818367199e511d478"
+              "url": "https://ghcr.io/v2/homebrew/core/awscli/blobs/sha256:e0077ef647182bbc0310a05ff8f6f1bce12d4c520bbdddd8dc74d04c23cf2d0b",
+              "sha256": "e0077ef647182bbc0310a05ff8f6f1bce12d4c520bbdddd8dc74d04c23cf2d0b"
             },
             "arm64_ventura": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/awscli/blobs/sha256:4eac3195c88e486874d93baea5e1ab6277c6fdb450fd44c782fa58f4501a573b",
-              "sha256": "4eac3195c88e486874d93baea5e1ab6277c6fdb450fd44c782fa58f4501a573b"
+              "url": "https://ghcr.io/v2/homebrew/core/awscli/blobs/sha256:95cad4083bb9c9547678b2f2234d97c8f663d36cf8bd9b4f133c31c19bac6cef",
+              "sha256": "95cad4083bb9c9547678b2f2234d97c8f663d36cf8bd9b4f133c31c19bac6cef"
             },
             "sonoma": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/awscli/blobs/sha256:de6082c09d321cc1c828093e09ac6767c5cc52a419f9c0339758d0be8e7f0c8a",
-              "sha256": "de6082c09d321cc1c828093e09ac6767c5cc52a419f9c0339758d0be8e7f0c8a"
+              "url": "https://ghcr.io/v2/homebrew/core/awscli/blobs/sha256:d0594054bbff91f96de5955c7bdbea9e0ec3b072fbf2c534f27f6a3086c2f986",
+              "sha256": "d0594054bbff91f96de5955c7bdbea9e0ec3b072fbf2c534f27f6a3086c2f986"
             },
             "ventura": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/awscli/blobs/sha256:082f00f1daa809265348a134df43d9e2df01fb777c1cfd46ab0294198bac77e6",
-              "sha256": "082f00f1daa809265348a134df43d9e2df01fb777c1cfd46ab0294198bac77e6"
+              "url": "https://ghcr.io/v2/homebrew/core/awscli/blobs/sha256:85ba97ddcade9fe439de8955d2d917c406db3e5ec77a7b615b4828518ec99894",
+              "sha256": "85ba97ddcade9fe439de8955d2d917c406db3e5ec77a7b615b4828518ec99894"
             },
             "x86_64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/awscli/blobs/sha256:c288b5fb99e6f7775fec1cca6d8a46a6e3b19d34a19c4562d3c85b76bd150b22",
-              "sha256": "c288b5fb99e6f7775fec1cca6d8a46a6e3b19d34a19c4562d3c85b76bd150b22"
+              "url": "https://ghcr.io/v2/homebrew/core/awscli/blobs/sha256:4dd9c60229b01e727feb81b6068bcd32d4f4976f483935d81b235e3d848ef820",
+              "sha256": "4dd9c60229b01e727feb81b6068bcd32d4f4976f483935d81b235e3d848ef820"
             }
           }
         }
@@ -958,7 +958,7 @@
         }
       },
       "warp": {
-        "version": "0.2024.09.17.08.02.stable_01",
+        "version": "0.2024.09.24.08.02.stable_01",
         "options": {
           "full_name": "warp"
         }
@@ -1013,7 +1013,7 @@
         }
       },
       "skype": {
-        "version": "8.128.0.207",
+        "version": "8.129.0.201",
         "options": {
           "full_name": "skype"
         }
@@ -1025,7 +1025,7 @@
         }
       },
       "zoom": {
-        "version": "6.2.2.40571",
+        "version": "6.2.3.40682",
         "options": {
           "full_name": "zoom"
         }
