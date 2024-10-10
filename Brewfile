@@ -37,6 +37,8 @@ cask "nordvpn"
 cask "skype"
 cask "iterm2"
 cask "zoom"
+cask "logi-options+"
+cask "logitune"
 
 mas "Slack", id: 803453959
 mas "CCMenu", id: 603117688
@@ -44,3 +46,4 @@ mas "WireGuard", id: 1451685025
 mas "Xcode", id: 497799835
 mas "Telegram", id: 747648890
 mas "1Password for Safari", id: 1569813296
+mas "Meeter für Zoom, Teams & Co.", id: 1510445899
